@@ -109,12 +109,14 @@ Just open `html` in your browser – everything runs locally, no internet needed
 
 ## 缺点 · drawback
 
-- 移动端界面可能不是那么适配
 - 极致压缩版本是由AI做的
+- 移动端界面可能不是那么适配
+- 翻译可能不是很好
 - 本人可能以后不在维护，因为目前的功能已经满足我的需求
-
-- It may not be very mobile-friendly.
+- 
 - Lite_version was made by AI.
+- It may not be very mobile-friendly.
+- This translation may not be perfect.
 - I may not maintain it in the future, since the current features already meet my needs.
 
 ## 📄 许可 · License
