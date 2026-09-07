@@ -1,6 +1,6 @@
 # SVG XML 查看导出工具 · SVG XML Viewer & Exporter
 
-![主界面预览 · Main interface preview](otuer/1.jpg)  
+![主界面预览 · Main interface preview](blob/main/otuer/1.jpg)  
 ![主界面预览 · Main interface preview](other/2.jpg)
 
 一款 100% 离线的 Web 工具，用于预览、转换和导出 Android Vector / Layer-list / Icon 以及标准 SVG 图形。支持拖拽上传、实时渲染、尺寸调节和 PNG 导出，无需任何后端依赖。
